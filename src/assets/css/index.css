@@ -1,0 +1,22 @@
+@font-face {
+  font-family: 'Nexa Bold';
+  font-style: normal;
+  font-weight: 100;
+  src: url('../fonts//nexa/Nexa\ Bold.otf'); /* IE9 Compat Modes */
+}
+
+@font-face {
+  font-family: 'Nexa';
+  font-style: normal;
+  font-weight: 100;
+  src: url('../fonts//nexa/Nexa\ Light.otf'); /* IE9 Compat Modes */
+}
+
+body {
+  font-family: 'Nexa';
+  margin: 0;
+  padding: 0;
+};
+.fbButton {
+  border: 0
+}
